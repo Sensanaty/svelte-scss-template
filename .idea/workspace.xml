@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81e2825b-7443-44ab-8d43-7a9578fe58e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hUiub2BddiAzIo0zsAKRGcOUwe" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/styles" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81e2825b-7443-44ab-8d43-7a9578fe58e5" name="Default Changelist" comment="" />
+      <created>1600072294343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600072294343</updated>
+      <workItem from="1600072295512" duration="1332000" />
+      <workItem from="1600099757107" duration="535000" />
+      <workItem from="1600100395480" duration="3818000" />
+      <workItem from="1600163470528" duration="7765000" />
+      <workItem from="1600247952270" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="947" y="565" width="976" height="457" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600100662676">
+      <screen x="0" y="0" width="2880" height="1586" />
+    </state>
+    <state x="947" y="565" width="976" height="457" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2880.1586@0.0.2880.1586" timestamp="1600100662676" />
+    <state x="1124" y="494" key="FileChooserDialogImpl" timestamp="1600162551459">
+      <screen x="0" y="0" width="2880" height="1586" />
+    </state>
+    <state x="1124" y="494" key="FileChooserDialogImpl/0.0.2880.1586@0.0.2880.1586" timestamp="1600162551459" />
+    <state x="1042" y="401" width="796" height="784" key="find.popup" timestamp="1600166271455">
+      <screen x="0" y="0" width="2880" height="1586" />
+    </state>
+    <state x="1042" y="401" width="796" height="784" key="find.popup/0.0.2880.1586@0.0.2880.1586" timestamp="1600166271455" />
+    <state x="974" y="358" width="929" height="1034" key="search.everywhere.popup" timestamp="1600247603343">
+      <screen x="0" y="0" width="2880" height="1586" />
+    </state>
+    <state x="974" y="358" width="929" height="1034" key="search.everywhere.popup/0.0.2880.1586@0.0.2880.1586" timestamp="1600247603343" />
+  </component>
+</project>
