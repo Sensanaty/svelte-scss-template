@@ -41,7 +41,11 @@ By default, the server will only respond to requests from localhost. To allow co
 
 ## Global SCSS Variables
 
-By default, this template will prepend the `/src/assets/styles/global.scss` file everywhere where `scss` is being used. Note that `prependData` only works with a string, as such there can only be one file imported. The best solution for multiple files would be to create separate`scss` files, and to import them all into the `global.scss` file.
+By default, this template will prepend the `/src/assets/styles/global.scss` file everywhere where `scss` is being used. Note that `prependData` only works with a string, as such there can only be one file imported. The best solution for multiple files would be to create separate`scss` files, and to import them all into the `global.scss` file. If you want to change which file is being imported globally, edit the `rollup.config.js` file at `line 50`:
+
+```javascript
+prependData: `@import './src/assets/styles/global.scss';`
+```
 
 Another thing to keep in mind, to apply global styles for generic `HTML` elements like the `body` element for example, you have to use the `:global()` magic selector. Read more about styling in Svelte [here](https://svelte.dev/docs#style).
 
